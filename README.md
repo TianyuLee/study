@@ -1,2 +1,2 @@
 # study
-coding for fun
+coding for fun.
